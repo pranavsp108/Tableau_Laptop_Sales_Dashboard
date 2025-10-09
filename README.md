@@ -4,8 +4,6 @@ An interactive dashboard created in Tableau to analyze and visualize key trends,
 
 ### ➡️ [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/LaptopSalesPerformanceDashboard/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-*(Please replace the link above with your actual Tableau Public URL)*
-
 ---
 
 
@@ -50,5 +48,5 @@ The analysis is based on two CSV files:
 
 ## 🛠️ How to View
 
-* **Live Dashboard:** The best way to experience the project is through the interactive version on **[Tableau Public](https://public.tableau.com/app/profile/your-name/viz/Your-Dashboard-Name)**.
-* **Local File:** You can also download the `Project_Group_6_Pranav.twbx` packaged workbook file from this repository and open it using Tableau Desktop or the free [Tableau Reader](https://www.tableau.com/products/reader).
+* **Live Dashboard:** The best way to experience the project is through the interactive version on **[Tableau Public](https://public.tableau.com/views/LaptopSalesPerformanceDashboard/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
+* **Local File:** You can also download the `Laptop_Sales_Performance.twbx` packaged workbook file from this repository and open it using Tableau Desktop or the free [Tableau Reader](Laptop_Sales_Performance.twbx).
