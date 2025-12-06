@@ -3,12 +3,13 @@
 An interactive dashboard created in Tableau to analyze and visualize key trends, geographic insights, and performance metrics from a UK-based laptop retail chain's 2008 sales data.
 
 ### ➡️ [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/LaptopSalesPerformanceDashboard/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ---
 
 ## 🎯 Project Overview
 
 This project was a group exercise to explore a complex dataset and design a single-screen dashboard for a retail company's management. The goal was to distill nearly 300,000 sales transactions from 2008 into a clear, interactive, and self-explanatory summary of business performance. The dashboard focuses on answering key questions related to sales over time, product configuration, price points, and geographic distribution.
+
+![Dashboard Screenshot](./Dashboard_Screenshot.png)
 
 ## 📊 Key Insights & Findings
 
